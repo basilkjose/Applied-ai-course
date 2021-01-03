@@ -3,6 +3,6 @@
 
 ## Contents
 1. [Python user defined functions](https://github.com/basilkjose/Applied-ai-course/tree/main/FUNCTION_)
-2. [Pandas exercise] (https://github.com/basilkjose/Applied-ai-course/tree/main/pandas)
+2. [Pandas exercise](https://github.com/basilkjose/Applied-ai-course/tree/main/pandas)
 3. [Exploratory data analysis](https://github.com/basilkjose/Applied-ai-course/tree/main/2.eda)
 4. [TF-IDF implementation from scratch](https://github.com/basilkjose/Applied-ai-course/tree/main/3.tfidf%20implementation)
